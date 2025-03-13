@@ -9,3 +9,6 @@ const readArtists = () => {
 
     }
 }
+
+
+export { readArtists }
