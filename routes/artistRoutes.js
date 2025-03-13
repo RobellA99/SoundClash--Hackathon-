@@ -34,4 +34,19 @@ router
 
     })
 
+router.get("/:id/stats", (req, res) => {
+    try {
+
+        const artists = readArtists()
+        const selectedArtist = artists.find(
+            (artists) => artists.id === req.params.id
+        );
+
+        res.json(selectedArtist.stats)
+
+    } catch (error) {
+
+    }
+})
+
 export default router
