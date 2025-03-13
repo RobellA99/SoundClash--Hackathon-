@@ -3,7 +3,8 @@
 		"id": "1",
 		"name": "J Cole",
 		"description": "Jermaine Lamarr Cole is an American rapper and record producer. Born in a military base in Germany and raised in Fayetteville, North Carolina",
-		"images": "",
+		"images": "j-cole.jpg",
+		"genre": "Rap",
 		"stats": [
 			{
 				"age": 40,
@@ -18,7 +19,8 @@
 		"id": "2",
 		"name": "Kendrick Lamar",
 		"description": "Kendrick Lamar Duckworth is an American rapper. Regarded as one of the greatest rappers of all time, he was awarded the 2018 Pulitzer Prize for Music, becoming the first musician outside of the classical and jazz genres to receive the honor.",
-		"images": "",
+		"images": "kendrick-lamar.jpg",
+		"genre": "Rap",
 		"stats": [
 			{
 				"age": 37,
@@ -33,7 +35,8 @@
 		"id": "3",
 		"name": "Drake",
 		"description": "Aubrey Drake Graham, known mononymously as Drake, is a Canadian rapper, singer, and actor. Named one of the greatest rappers of all time by Billboard, he is credited with popularizing R&B sensibilities in hip-hop music.",
-		"images": "",
+		"images": "drake.jpg",
+		"genre": "R&B",
 		"stats": [
 			{
 				"age": 38,
@@ -48,7 +51,8 @@
 		"id": "4",
 		"name": "Taylor Swift",
 		"description": "Taylor Alison Swift is an American singer-songwriter known for her autobiographical songwriting, artistic versatility, and cultural impact. A prominent figure in popular music, Swift has received extensive media coverage and has a global fanbase known as Swifties.",
-		"images": "",
+		"images": "taylor-swift.jpg",
+		"genre": "Pop",
 		"stats": [
 			{
 				"age": 35,
@@ -63,7 +67,8 @@
 		"id": "5",
 		"name": "Olivia Rodrigo",
 		"description": "Olivia Isabel Rodrigo is an American singer-songwriter and actress. She gained prominence starring in the Disney Channel series Bizaardvark and the Disney+ series High School Musical: The Musical: The Series.",
-		"images": "",
+		"images": "olivia-rodrigo.jpg",
+		"genre": "Pop",
 		"stats": [
 			{
 				"age": 22,
@@ -78,7 +83,8 @@
 		"id": "6",
 		"name": "ABBA",
 		"description": "ABBA were a Swedish pop group formed in Stockholm in 1972 by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni-Frid Lyngstad. They are one of the most popular and successful musical groups of all time",
-		"images": "",
+		"images": "abba.jpg",
+		"genre": "Pop",
 		"stats": [
 			{
 				"age": 78,
@@ -93,7 +99,8 @@
 		"id": "7",
 		"name": "Michael Jackson",
 		"description": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the King of Pop, he is regarded as one of the most significant figures of the 20th century",
-		"images": "",
+		"images": "michael-jackson.jpg",
+		"genre": "Pop",
 		"stats": [
 			{
 				"age": 0,
@@ -108,7 +115,8 @@
 		"id": "8",
 		"name": "Kenny Rogers",
 		"description": "Kenneth Ray Rogers was an American singer and songwriter. He was inducted into the Country Music Hall of Fame in 2013",
-		"images": "",
+		"images": "kenny-rogers.jpg",
+		"genre": "Country",
 		"stats": [
 			{
 				"age": 0,
@@ -123,7 +131,8 @@
 		"id": "9",
 		"name": "Rihanna",
 		"description": "Robyn Rihanna Fenty is a Barbadian singer, businesswoman and actress",
-		"images": "",
+		"images": "rihanna.jpg",
+		"genre": "R&B",
 		"stats": [
 			{
 				"age": 37,
@@ -138,7 +147,8 @@
 		"id": "10",
 		"name": "Bad Bunny",
 		"description": "Benito Antonio Martínez Ocasio, best known by his stage name Bad Bunny, is a Puerto Rican rapper, singer, and record producer",
-		"images": "",
+		"images": "bad-bunny.jpg",
+		"genre": "Reggaeton",
 		"stats": [
 			{
 				"age": 31,
