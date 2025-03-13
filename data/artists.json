@@ -1,47 +1,97 @@
 [
-	{
-		"id": "1",
-		"name": "J Cole",
-		"age": 40,
-		"Monthly streams": 38.4,
-		"Instagram followers": 8.5,
-		"Cultural impact": 6,
-		"Countries toured": 19
-	},
-	{
-		"id": "2",
-		"name": "Kendrick Lamar",
-		"age": 37,
-		"Monthly streams": 110.8,
-		"Instagram followers": 19.5,
-		"Cultural impact": 7.5,
-		"Countries toured": 34
-	},
-	{
-		"id": "3",
-		"name": "Drake",
-		"age": 38,
-		"Monthly streams": 81.9,
-		"Instagram followers": 143,
-		"Cultural impact": 7,
-		"Countries toured": 22
-	},
-	{
-		"id": "4",
-		"name": "Taylor Swift",
-		"age": 35,
-		"Monthly streams": 85.1,
-		"Instagram followers": 282,
-		"Cultural impact": 7.5,
-		"Countries toured": 29
-	},
-	{
-		"id": "5",
-		"name": "Olivia Rodrigo",
-		"age": 22,
-		"Monthly streams": 46.3,
-		"Instagram followers": 38.8,
-		"Cultural impact": 5,
-		"Countries toured": 21
-	}
+  {
+    "id": "1",
+    "name": "J Cole",
+    "age": 40,
+    "Monthly streams": 38.4,
+    "Instagram followers": 8.5,
+    "Cultural impact": 6,
+    "Countries toured": 19
+  },
+  {
+    "id": "2",
+    "name": "Kendrick Lamar",
+    "age": 37,
+    "Monthly streams": 110.8,
+    "Instagram followers": 19.5,
+    "Cultural impact": 7.5,
+    "Countries toured": 34
+  },
+  {
+    "id": "3",
+    "name": "Drake",
+    "age": 38,
+    "Monthly streams": 81.9,
+    "Instagram followers": 143,
+    "Cultural impact": 7,
+    "Countries toured": 22
+  },
+  {
+    "id": "4",
+    "name": "Taylor Swift",
+    "age": 35,
+    "Monthly streams": 85.1,
+    "Instagram followers": 282,
+    "Cultural impact": 7.5,
+    "Countries toured": 29
+  },
+  {
+    "id": "5",
+    "name": "Olivia Rodrigo",
+    "age": 22,
+    "Monthly streams": 46.3,
+    "Instagram followers": 38.8,
+    "Cultural impact": 5,
+    "Countries toured": 21
+  },
+  {
+    "id": "6",
+    "name": "ABBA",
+    "age": 78,
+    "Monthly streams": 35,
+    "Instagram followers": 1.5,
+    "Cultural impact": 8,
+    "Countries toured": 40,
+    "Description": "ABBA were a Swedish pop group formed in Stockholm in 1972 by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni-Frid Lyngstad. They are one of the most popular and successful musical groups of all time"
+  },
+  {
+    "id": "7",
+    "name": "Michael Jackson",
+    "age": 0,
+    "Monthly streams": 46.5,
+    "Instagram followers": 9.4,
+    "Cultural impact": 10,
+    "Countries toured": 35,
+    "Description": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the King of Pop, he is regarded as one of the most significant figures of the 20th century"
+  },
+  {
+    "id": "8",
+    "name": "Kenny Rogers",
+    "age": 0,
+    "Monthly streams": 9.3,
+    "Instagram followers": 0.2,
+    "Cultural impact": 5,
+    "Countries toured": 10,
+    "Description": "Kenneth Ray Rogers was an American singer and songwriter. He was inducted into the Country Music Hall of Fame in 2013"
+  },
+  {
+    "id": "9",
+    "name": "Rihanna",
+    "age": 37,
+    "Monthly streams": 90.5,
+    "Instagram followers": 150,
+    "Cultural impact": 8,
+    "Countries toured": 50,
+    "Description": "Robyn Rihanna Fenty is a Barbadian singer, businesswoman and actress"
+  },
+  {
+    "id": "10",
+    "name": "Bad Bunny",
+    "age": 31,
+    "Monthly streams": 85.9,
+    "Instagram followers": 47.4,
+    "Cultural impact": 7,
+    "Countries toured": 17,
+    "Description": "Benito Antonio Martínez Ocasio, best known by his stage name Bad Bunny, is a Puerto Rican rapper, singer, and record producer"
+  }
 ]
