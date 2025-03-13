@@ -42,10 +42,14 @@ router.get("/:id/stats", (req, res) => {
             (artists) => artists.id === req.params.id
         );
 
+        if (!selectedArtist.length === 0) {
+            return res.status(404).json({ message: `Could not find stats for artists with id ${req.params.id}` })
+        }
+
         res.json(selectedArtist.stats)
 
     } catch (error) {
-
+        return res.status(500).json(error)
     }
 })
 
